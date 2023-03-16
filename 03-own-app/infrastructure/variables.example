@@ -1,0 +1,15 @@
+# LOCAL VARIABLES #
+locals {
+  # PROVIDER CONFIG
+  aws_name_profile = "free-account"
+  aws_region = "us-east-1"
+
+  # vpc variables 
+  vpc_id = "vpc-09f8167eed1b12075"
+  public_subnet_01_id = "subnet-02d04c73bdbc61b86"
+  public_subnet_02_id = "subnet-0a36cd84bb2342061"
+
+  # config vars
+  instance_name = "wizeline-project"
+  instance_ami = "ami-0ebbb30fa334a2a52"
+}

@@ -1,0 +1,9 @@
+.env
+.env.dev
+.env*
+*.pem
+.terraform
+*.ovpn
+.terraform.lock.hcl
+terraform.tfstate*
+variables.tf
