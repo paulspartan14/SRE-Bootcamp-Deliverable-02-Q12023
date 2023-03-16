@@ -2,6 +2,8 @@
 
 #### Analysis
 
+![diagram](./assets/recommended.png)
+
 The application...
 
 * it will Have a **load balancer** for divide request on different **ec2 instances**.

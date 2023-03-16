@@ -2,6 +2,8 @@
 
 #### Analysis
 
+![diagram](./assets/currently.png)
+
 The application...
 
 * Have a **load balancer** for divide request on twice **ec2 instances**.
