@@ -13,6 +13,10 @@ on this repository you can found all code relationated with infrastructure for a
 
 ### Infrastructure diagram.
 
+```
+DB used is Wizeline DB yet
+```
+
 ![diagram](./assets/diagram.png)
 
 
